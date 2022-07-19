@@ -9,3 +9,6 @@ Time allowing, the site can update in real time, and guests can book and pay for
 
 The site will include an inventory browse, a way to create an account, an About Us page, and more.
 
+## Da Rules
+- Push to a branch, not straight to main!
+- We approve each other's Merge Requests, I guess?
