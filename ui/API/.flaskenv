@@ -1,2 +1,0 @@
-FLASK_APP=flask_rest/api.py
-FLASK_ENV=development
